@@ -123,8 +123,13 @@
 
     git merge <branchname>
 
-Где \<branchname> имя ветки 
+Где \<branchname> - имя ветки 
 
 
 ### Удаление ветки
 
+Когда ветка становится не нужна, ее можно удалить с помощью комнады:
+
+    git branch -d <branchname>
+
+Где \<branchname> - имя ветки
