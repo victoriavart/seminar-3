@@ -133,3 +133,7 @@
     git branch -d <branchname>
 
 Где \<branchname> - имя ветки
+
+
+### Конфликт
+
