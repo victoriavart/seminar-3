@@ -124,3 +124,7 @@
     git merge <branchname>
 
 Где \<branchname> имя ветки 
+
+
+### Удаление ветки
+
